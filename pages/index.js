@@ -1,6 +1,8 @@
 import { useState } from "react"
 
 function Home () {
-  return <div>Home</div>
+  return <div>
+    pituko
+  </div>
 }
 export default Home
