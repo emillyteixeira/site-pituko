@@ -2,7 +2,7 @@ import { useState } from "react"
 
 function Home () {
   return <div>
-    pituko
+    e lá vamos nós...
   </div>
 }
 export default Home
